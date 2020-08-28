@@ -1,6 +1,6 @@
 # text_analyzer
 
-Goal
+## Goal
 Develop a program that returns a abstractive summarization for given text, and ables to answer related questions
 Purpose: Get familiar with Language modeling tools such as Huggingface, etc.
 
@@ -9,3 +9,29 @@ Purpose: Get familiar with Language modeling tools such as Huggingface, etc.
 - Test
 - Develop functions
 - May develope a UI
+
+
+## Requirement
+- PyQt5
+- Transformer (Huggingface)
+
+## Usage
+    python3 text_analyzer3-1.py
+- copy and paste text
+- adjust length of the summary
+- get a summary
+- type in a question
+- get the answer and a confidence score
+
+
+## User Interface
+![UI](samples/UI_1.png)
+
+![UI](samples/UI_2.png)
+
+## Future Work
+- When first time clicking "Summarize" and "Answer"; the program when start download OR update the correspond models. And this process is very slow.
+
+- Better UI design
+
+- Embedd with other NLP models
