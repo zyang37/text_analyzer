@@ -30,7 +30,7 @@ Purpose: Get familiar with Language modeling tools such as Huggingface, etc.
 <img src="samples/UI2.png" width="75%">
 
 ## Future Work
-- When first time clicking "Summarize" and "Answer"; the program when start download OR update the correspond models. And this process is very slow.
+- The program starts download OR update the correspond models, when clicking the "Summarize" and "Answer" buttons for the first time. This process is slow. The inference time is acceptable.
 
 - Better UI design
 
