@@ -34,4 +34,4 @@ Purpose: Get familiar with Language modeling tools such as Huggingface, etc.
 
 - Better UI design
 
-- Embedd with other NLP models
+- Embed with other NLP models
