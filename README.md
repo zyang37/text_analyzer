@@ -1,7 +1,8 @@
 # text_analyzer
 
+Goal
 Develop a program that returns a abstractive summarization for given text, and ables to answer related questions
-Purpose: Get familiar with Language modeling tools such as Huggingface, etc. 
+Purpose: Get familiar with Language modeling tools such as Huggingface, etc.
 
 - Docker container
 - Use Huggingface
