@@ -25,9 +25,9 @@ Purpose: Get familiar with Language modeling tools such as Huggingface, etc.
 
 
 ## User Interface
-![UI_1](samples/UI_1.png)
+![UI_1](samples/UI1.png)
 
-![UI_2](samples/UI_2.png)
+![UI_2](samples/UI2.png)
 
 ## Future Work
 - When first time clicking "Summarize" and "Answer"; the program when start download OR update the correspond models. And this process is very slow.
