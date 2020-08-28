@@ -27,11 +27,11 @@ Purpose: Get familiar with Language modeling tools such as Huggingface, etc.
 ## User Interface
 <img src="samples/UI1.png" width="75%">
 
-<img src="samples/UI2.png" width="75%"> 
+<img src="samples/UI2.png" width="75%">
 
 ## Future Work
 - When first time clicking "Summarize" and "Answer"; the program when start download OR update the correspond models. And this process is very slow.
 
 - Better UI design
 
-- Embedd with other NLP models
+- Embedd with other NLP models
